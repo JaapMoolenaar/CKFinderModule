@@ -1,5 +1,5 @@
 {
-    "name": "satsume/CKFinderModule",
+    "name": "satsume/ckfinder-module",
     "description": "A module to implement ckfinder for Zend Framework 2.",
     "license": "BSD-2-Clause",
     "type": "library",
