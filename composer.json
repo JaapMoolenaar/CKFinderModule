@@ -1,0 +1,29 @@
+{
+    "name": "satsume/CKFinderModule",
+    "description": "A module to implement ckfinder for Zend Framework 2.",
+    "license": "BSD-2-Clause",
+    "type": "library",
+    "keywords": [
+        "ckfinder",
+        "ckfinder module",
+        "zf2",
+        "zend framework 2"
+    ],
+    "homepage": "https://github.com/satsume/CKFinderModule",
+    "authors": [
+        {
+            "name": "Jaap Moolenaar",
+            "email": "jaap.moolenaar@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.*",
+        "rwoverdijk/assetmanager": "2.*@dev"
+    },
+    "autoload": {
+        "psr-0": {
+            "CKFinderModule": "src/"
+        }
+    }
+}
